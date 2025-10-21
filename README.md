@@ -13,7 +13,7 @@
 - **Smooth Animations:** Subtle transitions and fade-ins for a delightful experience
 - **Responsive:** Works perfectly on mobile and desktop
 - **Customizable Target:** Adjust your attendance goal with a slider
-- **Open Source:** [View on GitHub]([(https://github.com/gowthamrdyy/Bunkifyyy)])
+
 
 ---
 
@@ -38,6 +38,3 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-<div align="center" style="margin-top:2rem; color:#b0b0b4; font-style:italic;">
-  Made with <span style="color:#ff2d55;">&#10084;</span> by Gowtham
-</div>
