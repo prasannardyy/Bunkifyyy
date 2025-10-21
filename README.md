@@ -4,7 +4,7 @@
 
 ## About
 
-**Bunkifyyy** is a beautifully simple attendance calculator for students, now with a unique look, smooth animations, and extra Gowtham branding. Instantly find out how many classes you can bunk or need to attend to maintain your target attendance percentage.
+**Bunkifyyy** is a beautifully simple attendance calculator for students, now with a unique look, smooth animations. Instantly find out how many classes you can bunk or need to attend to maintain your target attendance percentage.
 
 ---
 
