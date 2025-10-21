@@ -17,24 +17,5 @@
 
 ---
 
-## 🚀 Getting Started
-1. **Clone this repo:**
-   ```bash
-   git clone [https://github.com/gowthamrdyy/Bunkifyyy]
-   ```
-2. **Open `index.html` in your browser.**
 
-No build steps. No dependencies. Just pure HTML, CSS, and JS.
-
----
-## 🛠️ Customization
-- Change the logo in `assets/logo1.png` for your own branding.
-- Tweak colors and fonts in `style.css` for a different vibe.
-
----
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first.
-
----
 
