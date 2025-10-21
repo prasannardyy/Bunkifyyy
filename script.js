@@ -74,3 +74,7 @@ function showResult(content, type) {
   resultDiv.innerHTML = content;
   resultDiv.className = `result-${type} show`;
 }
+
+
+
+
